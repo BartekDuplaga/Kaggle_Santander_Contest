@@ -1,5 +1,6 @@
 # Kaggle_Santander_Contest
 https://www.kaggle.com/c/santander-customer-transaction-prediction/overview 
+
 Classification problem on imblanaced dataset
 Dataset:
   - 200 variables (each having approx. gaussian distribution)
